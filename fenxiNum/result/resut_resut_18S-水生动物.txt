@@ -1,0 +1,1182 @@
+{
+	"AUT": {
+		"c__Actinopteri": {
+			"c__Actinopteri": {
+				"count": 1,
+				"total": 1
+			}
+		},
+		"c__Amphibia": {
+			"c__Amphibia": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Anopla": {
+			"c__Anopla": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Anthozoa": {
+			"c__Anthozoa": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Arachnida": {
+			"c__Arachnida": {
+				"count": 13,
+				"total": 2892
+			}
+		},
+		"c__Aves": {
+			"c__Aves": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Bdelloidea": {
+			"c__Bdelloidea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Bivalvia": {
+			"c__Bivalvia": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Branchiopoda": {
+			"c__Branchiopoda": {
+				"count": 1,
+				"total": 2
+			}
+		},
+		"c__Catenulida": {
+			"c__Catenulida": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Cephalopoda": {
+			"c__Cephalopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Cestoda": {
+			"c__Cestoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Chilopoda": {
+			"c__Chilopoda": {
+				"count": 1,
+				"total": 1
+			}
+		},
+		"c__Chromadorea": {
+			"c__Chromadorea": {
+				"count": 4,
+				"total": 35
+			}
+		},
+		"c__Clitellata": {
+			"c__Clitellata": {
+				"count": 2,
+				"total": 99
+			}
+		},
+		"c__Collembola": {
+			"c__Collembola": {
+				"count": 12,
+				"total": 18016
+			}
+		},
+		"c__Crinoidea": {
+			"c__Crinoidea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Demospongiae": {
+			"c__Demospongiae": {
+				"count": 1,
+				"total": 206
+			}
+		},
+		"c__Diplopoda": {
+			"c__Diplopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Echinoidea": {
+			"c__Echinoidea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Enopla": {
+			"c__Enopla": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Enoplea": {
+			"c__Enoplea": {
+				"count": 4,
+				"total": 367
+			}
+		},
+		"c__Eutardigrada": {
+			"c__Eutardigrada": {
+				"count": 3,
+				"total": 14
+			}
+		},
+		"c__Gastropoda": {
+			"c__Gastropoda": {
+				"count": 1,
+				"total": 1
+			}
+		},
+		"c__Gymnolaemata": {
+			"c__Gymnolaemata": {
+				"count": 1,
+				"total": 5
+			}
+		},
+		"c__Homoscleromorpha": {
+			"c__Homoscleromorpha": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Hydrozoa": {
+			"c__Hydrozoa": {
+				"count": 1,
+				"total": 12
+			}
+		},
+		"c__Insecta": {
+			"c__Insecta": {
+				"count": 21,
+				"total": 8128
+			}
+		},
+		"c__Malacostraca": {
+			"c__Malacostraca": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Mammalia": {
+			"c__Mammalia": {
+				"count": 1,
+				"total": 3
+			}
+		},
+		"c__Maxillopoda": {
+			"c__Maxillopoda": {
+				"count": 53,
+				"total": 145325
+			}
+		},
+		"c__Monogononta": {
+			"c__Monogononta": {
+				"count": 21,
+				"total": 7446
+			}
+		},
+		"c__Ostracoda": {
+			"c__Ostracoda": {
+				"count": 6,
+				"total": 220909
+			}
+		},
+		"c__Palaeonemertea": {
+			"c__Palaeonemertea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Phylactolaemata": {
+			"c__Phylactolaemata": {
+				"count": 1,
+				"total": 4397
+			}
+		},
+		"c__Polychaeta": {
+			"c__Polychaeta": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Rhabditophora": {
+			"c__Rhabditophora": {
+				"count": 6,
+				"total": 1480
+			}
+		},
+		"c__Scyphozoa": {
+			"c__Scyphozoa": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Staurozoa": {
+			"c__Staurozoa": {
+				"count": 0,
+				"total": 0
+			}
+		}
+	},
+	"SPR": {
+		"c__Actinopteri": {
+			"c__Actinopteri": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Amphibia": {
+			"c__Amphibia": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Anopla": {
+			"c__Anopla": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Anthozoa": {
+			"c__Anthozoa": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Arachnida": {
+			"c__Arachnida": {
+				"count": 5,
+				"total": 94
+			}
+		},
+		"c__Aves": {
+			"c__Aves": {
+				"count": 1,
+				"total": 10
+			}
+		},
+		"c__Bdelloidea": {
+			"c__Bdelloidea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Bivalvia": {
+			"c__Bivalvia": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Branchiopoda": {
+			"c__Branchiopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Catenulida": {
+			"c__Catenulida": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Cephalopoda": {
+			"c__Cephalopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Cestoda": {
+			"c__Cestoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Chilopoda": {
+			"c__Chilopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Chromadorea": {
+			"c__Chromadorea": {
+				"count": 2,
+				"total": 7
+			}
+		},
+		"c__Clitellata": {
+			"c__Clitellata": {
+				"count": 2,
+				"total": 73
+			}
+		},
+		"c__Collembola": {
+			"c__Collembola": {
+				"count": 5,
+				"total": 163
+			}
+		},
+		"c__Crinoidea": {
+			"c__Crinoidea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Demospongiae": {
+			"c__Demospongiae": {
+				"count": 1,
+				"total": 73
+			}
+		},
+		"c__Diplopoda": {
+			"c__Diplopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Echinoidea": {
+			"c__Echinoidea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Enopla": {
+			"c__Enopla": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Enoplea": {
+			"c__Enoplea": {
+				"count": 3,
+				"total": 242
+			}
+		},
+		"c__Eutardigrada": {
+			"c__Eutardigrada": {
+				"count": 3,
+				"total": 61
+			}
+		},
+		"c__Gastropoda": {
+			"c__Gastropoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Gymnolaemata": {
+			"c__Gymnolaemata": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Homoscleromorpha": {
+			"c__Homoscleromorpha": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Hydrozoa": {
+			"c__Hydrozoa": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Insecta": {
+			"c__Insecta": {
+				"count": 22,
+				"total": 20887
+			}
+		},
+		"c__Malacostraca": {
+			"c__Malacostraca": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Mammalia": {
+			"c__Mammalia": {
+				"count": 1,
+				"total": 3
+			}
+		},
+		"c__Maxillopoda": {
+			"c__Maxillopoda": {
+				"count": 38,
+				"total": 58287
+			}
+		},
+		"c__Monogononta": {
+			"c__Monogononta": {
+				"count": 19,
+				"total": 108577
+			}
+		},
+		"c__Ostracoda": {
+			"c__Ostracoda": {
+				"count": 3,
+				"total": 8174
+			}
+		},
+		"c__Palaeonemertea": {
+			"c__Palaeonemertea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Phylactolaemata": {
+			"c__Phylactolaemata": {
+				"count": 2,
+				"total": 641
+			}
+		},
+		"c__Polychaeta": {
+			"c__Polychaeta": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Rhabditophora": {
+			"c__Rhabditophora": {
+				"count": 3,
+				"total": 23
+			}
+		},
+		"c__Scyphozoa": {
+			"c__Scyphozoa": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Staurozoa": {
+			"c__Staurozoa": {
+				"count": 0,
+				"total": 0
+			}
+		}
+	},
+	"SUM": {
+		"c__Actinopteri": {
+			"c__Actinopteri": {
+				"count": 1,
+				"total": 27
+			}
+		},
+		"c__Amphibia": {
+			"c__Amphibia": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Anopla": {
+			"c__Anopla": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Anthozoa": {
+			"c__Anthozoa": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Arachnida": {
+			"c__Arachnida": {
+				"count": 7,
+				"total": 64
+			}
+		},
+		"c__Aves": {
+			"c__Aves": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Bdelloidea": {
+			"c__Bdelloidea": {
+				"count": 1,
+				"total": 2
+			}
+		},
+		"c__Bivalvia": {
+			"c__Bivalvia": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Branchiopoda": {
+			"c__Branchiopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Catenulida": {
+			"c__Catenulida": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Cephalopoda": {
+			"c__Cephalopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Cestoda": {
+			"c__Cestoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Chilopoda": {
+			"c__Chilopoda": {
+				"count": 1,
+				"total": 3
+			}
+		},
+		"c__Chromadorea": {
+			"c__Chromadorea": {
+				"count": 10,
+				"total": 400
+			}
+		},
+		"c__Clitellata": {
+			"c__Clitellata": {
+				"count": 2,
+				"total": 5
+			}
+		},
+		"c__Collembola": {
+			"c__Collembola": {
+				"count": 9,
+				"total": 421
+			}
+		},
+		"c__Crinoidea": {
+			"c__Crinoidea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Demospongiae": {
+			"c__Demospongiae": {
+				"count": 1,
+				"total": 1179
+			}
+		},
+		"c__Diplopoda": {
+			"c__Diplopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Echinoidea": {
+			"c__Echinoidea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Enopla": {
+			"c__Enopla": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Enoplea": {
+			"c__Enoplea": {
+				"count": 4,
+				"total": 16050
+			}
+		},
+		"c__Eutardigrada": {
+			"c__Eutardigrada": {
+				"count": 3,
+				"total": 246
+			}
+		},
+		"c__Gastropoda": {
+			"c__Gastropoda": {
+				"count": 1,
+				"total": 8
+			}
+		},
+		"c__Gymnolaemata": {
+			"c__Gymnolaemata": {
+				"count": 1,
+				"total": 843
+			}
+		},
+		"c__Homoscleromorpha": {
+			"c__Homoscleromorpha": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Hydrozoa": {
+			"c__Hydrozoa": {
+				"count": 1,
+				"total": 421
+			}
+		},
+		"c__Insecta": {
+			"c__Insecta": {
+				"count": 23,
+				"total": 1193
+			}
+		},
+		"c__Malacostraca": {
+			"c__Malacostraca": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Mammalia": {
+			"c__Mammalia": {
+				"count": 1,
+				"total": 27
+			}
+		},
+		"c__Maxillopoda": {
+			"c__Maxillopoda": {
+				"count": 58,
+				"total": 234342
+			}
+		},
+		"c__Monogononta": {
+			"c__Monogononta": {
+				"count": 24,
+				"total": 62885
+			}
+		},
+		"c__Ostracoda": {
+			"c__Ostracoda": {
+				"count": 6,
+				"total": 7813
+			}
+		},
+		"c__Palaeonemertea": {
+			"c__Palaeonemertea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Phylactolaemata": {
+			"c__Phylactolaemata": {
+				"count": 3,
+				"total": 82049
+			}
+		},
+		"c__Polychaeta": {
+			"c__Polychaeta": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Rhabditophora": {
+			"c__Rhabditophora": {
+				"count": 6,
+				"total": 4459
+			}
+		},
+		"c__Scyphozoa": {
+			"c__Scyphozoa": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Staurozoa": {
+			"c__Staurozoa": {
+				"count": 0,
+				"total": 0
+			}
+		}
+	},
+	"WIN": {
+		"c__Actinopteri": {
+			"c__Actinopteri": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Amphibia": {
+			"c__Amphibia": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Anopla": {
+			"c__Anopla": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Anthozoa": {
+			"c__Anthozoa": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Arachnida": {
+			"c__Arachnida": {
+				"count": 3,
+				"total": 53
+			}
+		},
+		"c__Aves": {
+			"c__Aves": {
+				"count": 1,
+				"total": 13
+			}
+		},
+		"c__Bdelloidea": {
+			"c__Bdelloidea": {
+				"count": 1,
+				"total": 2
+			}
+		},
+		"c__Bivalvia": {
+			"c__Bivalvia": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Branchiopoda": {
+			"c__Branchiopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Catenulida": {
+			"c__Catenulida": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Cephalopoda": {
+			"c__Cephalopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Cestoda": {
+			"c__Cestoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Chilopoda": {
+			"c__Chilopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Chromadorea": {
+			"c__Chromadorea": {
+				"count": 10,
+				"total": 301
+			}
+		},
+		"c__Clitellata": {
+			"c__Clitellata": {
+				"count": 2,
+				"total": 7
+			}
+		},
+		"c__Collembola": {
+			"c__Collembola": {
+				"count": 3,
+				"total": 389
+			}
+		},
+		"c__Crinoidea": {
+			"c__Crinoidea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Demospongiae": {
+			"c__Demospongiae": {
+				"count": 1,
+				"total": 146
+			}
+		},
+		"c__Diplopoda": {
+			"c__Diplopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Echinoidea": {
+			"c__Echinoidea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Enopla": {
+			"c__Enopla": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Enoplea": {
+			"c__Enoplea": {
+				"count": 3,
+				"total": 80
+			}
+		},
+		"c__Eutardigrada": {
+			"c__Eutardigrada": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Gastropoda": {
+			"c__Gastropoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Gymnolaemata": {
+			"c__Gymnolaemata": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Homoscleromorpha": {
+			"c__Homoscleromorpha": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Hydrozoa": {
+			"c__Hydrozoa": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Insecta": {
+			"c__Insecta": {
+				"count": 21,
+				"total": 68168
+			}
+		},
+		"c__Malacostraca": {
+			"c__Malacostraca": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Mammalia": {
+			"c__Mammalia": {
+				"count": 1,
+				"total": 3
+			}
+		},
+		"c__Maxillopoda": {
+			"c__Maxillopoda": {
+				"count": 28,
+				"total": 38143
+			}
+		},
+		"c__Monogononta": {
+			"c__Monogononta": {
+				"count": 10,
+				"total": 16355
+			}
+		},
+		"c__Ostracoda": {
+			"c__Ostracoda": {
+				"count": 4,
+				"total": 4716
+			}
+		},
+		"c__Palaeonemertea": {
+			"c__Palaeonemertea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Phylactolaemata": {
+			"c__Phylactolaemata": {
+				"count": 1,
+				"total": 1054
+			}
+		},
+		"c__Polychaeta": {
+			"c__Polychaeta": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Rhabditophora": {
+			"c__Rhabditophora": {
+				"count": 2,
+				"total": 8
+			}
+		},
+		"c__Scyphozoa": {
+			"c__Scyphozoa": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Staurozoa": {
+			"c__Staurozoa": {
+				"count": 0,
+				"total": 0
+			}
+		}
+	},
+	"Sheet1": {
+		"c__Actinopteri": {
+			"c__Actinopteri": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Amphibia": {
+			"c__Amphibia": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Anopla": {
+			"c__Anopla": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Anthozoa": {
+			"c__Anthozoa": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Arachnida": {
+			"c__Arachnida": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Aves": {
+			"c__Aves": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Bdelloidea": {
+			"c__Bdelloidea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Bivalvia": {
+			"c__Bivalvia": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Branchiopoda": {
+			"c__Branchiopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Catenulida": {
+			"c__Catenulida": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Cephalopoda": {
+			"c__Cephalopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Cestoda": {
+			"c__Cestoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Chilopoda": {
+			"c__Chilopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Chromadorea": {
+			"c__Chromadorea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Clitellata": {
+			"c__Clitellata": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Collembola": {
+			"c__Collembola": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Crinoidea": {
+			"c__Crinoidea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Demospongiae": {
+			"c__Demospongiae": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Diplopoda": {
+			"c__Diplopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Echinoidea": {
+			"c__Echinoidea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Enopla": {
+			"c__Enopla": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Enoplea": {
+			"c__Enoplea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Eutardigrada": {
+			"c__Eutardigrada": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Gastropoda": {
+			"c__Gastropoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Gymnolaemata": {
+			"c__Gymnolaemata": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Homoscleromorpha": {
+			"c__Homoscleromorpha": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Hydrozoa": {
+			"c__Hydrozoa": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Insecta": {
+			"c__Insecta": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Malacostraca": {
+			"c__Malacostraca": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Mammalia": {
+			"c__Mammalia": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Maxillopoda": {
+			"c__Maxillopoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Monogononta": {
+			"c__Monogononta": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Ostracoda": {
+			"c__Ostracoda": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Palaeonemertea": {
+			"c__Palaeonemertea": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Phylactolaemata": {
+			"c__Phylactolaemata": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Polychaeta": {
+			"c__Polychaeta": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Rhabditophora": {
+			"c__Rhabditophora": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Scyphozoa": {
+			"c__Scyphozoa": {
+				"count": 0,
+				"total": 0
+			}
+		},
+		"c__Staurozoa": {
+			"c__Staurozoa": {
+				"count": 0,
+				"total": 0
+			}
+		}
+	}
+}
